@@ -23,7 +23,7 @@ body{
 
 .imagen-container {
     position: absolute;
-    top: 60px; /* Ajusta la posición vertical según sea necesario */
+    top: 60px; 
     left: 50%;
     transform: translateX(-50%);
     display: flex;
@@ -33,7 +33,7 @@ body{
 }
 
 .imagen {
-    width: 60rem; /* Ajusta el tamaño de la imagen según tus necesidades */
+    width: 60rem; 
     height: auto;
 }
 
